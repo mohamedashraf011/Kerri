@@ -26,4 +26,4 @@ This is a Light version of a beautifully crafted personal portfolio template bui
 
 ##  Live Demo
 
-Check the [Live Demo on Netlify](https://kerrilive.netlify.app/light/index_1) to see the Light version in action.
+Check the [Live Demo on Netlify](https://mohamedashraf011.github.io/Kerri/) to see the Light version in action.
